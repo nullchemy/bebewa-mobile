@@ -78,9 +78,9 @@ lib/
 
 ## Contributors
 
-- [Your Name](https://github.com/DennisRono) - Project Lead
-- [Developer 1 Name](https://github.com/Kigo-p)
-- [Developer 2 Name](https://github.com/Johntosh)
+- [Dennis Kibet](https://github.com/DennisRono) - Project Lead
+- [Peter Kigo](https://github.com/Kigo-p)
+- [John Kariuki](https://github.com/Johntosh)
 
 ## License
 
